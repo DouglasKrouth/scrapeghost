@@ -8,3 +8,4 @@ openai-key
 site
 htmlcov
 .coverage
+.venv
